@@ -7,3 +7,5 @@ bug: when clicking links on the navbar, the navbar would land on top of the head
 https://css-tricks.com/the-slideout-footer/
 
 https://medium.com/@bretcameron/parallax-images-sticky-footers-and-more-8-useful-css-tricks-eef12418f676
+
+https://getcssscan.com/css-box-shadow-examples
