@@ -41,7 +41,7 @@ nav {
     margin-left: 5vw;
 }
 
-#logo img{
+#logo img {
     height: 75px;
 }
 
@@ -51,7 +51,7 @@ nav ul {
     display: flex;
 }
 
-nav ul li a{
+nav ul li a {
     color: #fff;
     text-decoration: none;
     font-size: 2.1rem;
@@ -63,7 +63,15 @@ nav ul li a{
 #hero {
     margin-top: 10rem;
     display: block;
+    overflow: hidden;
+}
+
+#herologo {
+    min-height: 50rem;
+    max-height: 70rem;
+    margin-top: -10rem;
+    margin-bottom: -15rem;
+    max-width: 100%;
 }
 
 /* headings */
-
