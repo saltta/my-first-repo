@@ -253,6 +253,7 @@ footer span {
     border-radius: 8rem;
     max-width: 70rem;
     max-height: 50rem;
+    aspect-ratio: 1/1.5;
 }
 
 #conf-image img {
