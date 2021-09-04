@@ -110,6 +110,7 @@ h3 {
 /* youtube video */
 
 iframe {
+    margin-top: 3rem;
     border: none;
 }
 
