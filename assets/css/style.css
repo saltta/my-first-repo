@@ -125,12 +125,20 @@ h3 {
     width: 20rem;
     height: 30rem;
     border-radius: 8rem;
+    transition: width .5s, height .5s;
 }
 
 .pizza p {
     width: 20rem;
     margin: 1rem auto;
     font-size: 2rem;
+}
+
+/* enlarge pizza image when hover */
+
+.pizza img:hover {
+    width: 22rem;
+    height: 32rem;
 }
 
 /* media queries */
