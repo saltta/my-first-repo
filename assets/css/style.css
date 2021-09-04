@@ -200,6 +200,13 @@ footer ul {
     justify-content: flex-end;
 }
 
+footer span {
+    color: #fff;
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 5%;
+}
+
 /* media queries */
 
 @media (max-width: 410px) {
