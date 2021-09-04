@@ -109,6 +109,18 @@ h3 {
 
 /* pizzas section */
 
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto;
+    max-width: 70rem;
+}
+
+.pizza {
+    margin: 1rem 5%;
+}
+
 .pizza img {
     width: 20rem;
     height: 30rem;
