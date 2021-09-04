@@ -141,6 +141,14 @@ h3 {
     height: 32rem;
 }
 
+/* Deals section */
+
+#deals p {
+    font-size: 4rem;
+    font-weight: 600;
+    margin: 0 10% 5rem;
+}
+
 /* media queries */
 
 @media (max-width: 410px) {
