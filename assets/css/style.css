@@ -196,7 +196,9 @@ footer {
     border-radius: .5rem .5rem 0 0;
 }
 
-
+footer ul {
+    justify-content: flex-end;
+}
 
 /* media queries */
 
