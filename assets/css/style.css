@@ -110,6 +110,7 @@ h3 {
 /* youtube video */
 
 iframe {
+    box-shadow: rgba(149, 157, 165, 0.8) 0px 8px 24px;
     margin-top: 3rem;
     border: none;
 }
@@ -117,7 +118,6 @@ iframe {
 /* pizzas section */
 
 .container {
-    overflow: hidden;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -130,6 +130,7 @@ iframe {
 }
 
 .img-wrapper {
+    box-shadow: rgba(149, 157, 165, 0.8) 0px 8px 24px;
     overflow: hidden;
     width: 20rem;
     height: 30rem;
@@ -165,6 +166,7 @@ iframe {
 /* form */
 
 form {
+    box-shadow: rgba(149, 157, 165, 0.8) 0px 8px 24px;
     background: #cd0000;
     color: #fff;
     max-width: 50rem;
@@ -248,6 +250,7 @@ footer span {
 }
 
 #conf-image {
+    box-shadow: rgba(149, 157, 165, 0.8) 0px 8px 24px;
     margin: 1rem 15%;
     overflow: hidden;
     border-radius: 8rem;
