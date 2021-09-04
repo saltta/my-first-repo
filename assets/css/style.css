@@ -209,6 +209,13 @@ footer span {
 
 /* surprise section */
 
+#surprise {
+    height: 20rem;
+    z-index: -1;
+    max-width: 1080px;
+    margin: auto;
+}
+
 /* media queries */
 
 @media (max-width: 410px) {
