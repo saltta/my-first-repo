@@ -159,6 +159,14 @@ form {
     border-radius: 1rem;
 }
 
+.form-item {
+    margin: 2rem 5% 2rem 5%;
+    padding: 0.25rem;#
+    text-align: left;
+}
+
+.form-input
+
 /* media queries */
 
 @media (max-width: 410px) {
