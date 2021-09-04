@@ -57,3 +57,13 @@ nav ul li a{
     font-size: 2.1rem;
     margin: 0 1rem;
 }
+
+/* hero image */
+
+#hero {
+    margin-top: 10rem;
+    display: block;
+}
+
+/* headings */
+
