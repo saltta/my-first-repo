@@ -117,6 +117,7 @@ iframe {
 /* pizzas section */
 
 .container {
+    overflow: hidden;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -244,6 +245,16 @@ footer span {
 
 #confirmation p {
     font-size: 3rem;
+}
+
+#pizzabox {
+    overflow: hidden;
+    border-radius: 8rem;
+}
+
+#pizzabox img {
+    width: 70rem;
+    height: 70rem;
 }
 
 /* media queries */
