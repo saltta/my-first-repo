@@ -86,13 +86,18 @@ h1 {
 }
 
 h2 {
-    font-size: 3rem;
+    font-size: 4rem;
     margin: 5rem 0 5rem 0;
     font-weight: 500;
     padding: 0.5rem;
     background-color: #cd0000;
     color: #fff;
     border-radius: 0.5rem;
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 3rem;
 }
 
 /* about section */
@@ -105,7 +110,7 @@ h2 {
 /* pizzas section */
 
 .pizza {
-    
+
 }
 
 /* media queries */
