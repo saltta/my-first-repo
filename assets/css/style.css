@@ -107,6 +107,12 @@ h3 {
     margin: 0 15% 0 15%;
 }
 
+/* youtube video */
+
+iframe {
+    border: none;
+}
+
 /* pizzas section */
 
 .container {
