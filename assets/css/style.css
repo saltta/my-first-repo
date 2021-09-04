@@ -211,9 +211,16 @@ footer span {
 
 #surprise {
     height: 20rem;
+    overflow: hidden;
     z-index: -1;
     max-width: 1080px;
     margin: auto;
+    position: sticky;
+    bottom: 0;
+}
+
+#surprise img {
+    margin-top: -60rem;
 }
 
 /* media queries */
