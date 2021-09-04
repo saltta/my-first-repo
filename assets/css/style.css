@@ -248,13 +248,19 @@ footer span {
 }
 
 #pizzabox {
+    margin: 1rem 15%;
     overflow: hidden;
     border-radius: 8rem;
+    max-width: 70rem;
+    max-height: 50rem;
 }
 
 #pizzabox img {
-    width: 70rem;
-    height: 70rem;
+    max-width: 70rem;
+    max-height: 66rem;
+    width: auto;
+    height: auto;
+    margin-top: -12rem;
 }
 
 /* media queries */
