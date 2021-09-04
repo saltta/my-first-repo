@@ -115,6 +115,12 @@ h3 {
     border-radius: 8rem;
 }
 
+.pizza p {
+    width: 20rem;
+    margin: 1rem auto;
+    font-size: 2rem;
+}
+
 /* media queries */
 
 @media (max-width: 410px) {
