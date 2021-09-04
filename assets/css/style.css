@@ -149,6 +149,16 @@ h3 {
     margin: 0 10% 5rem;
 }
 
+form {
+    background: #cd0000;
+    color: #fff;
+    max-width: 50rem;
+    margin: auto;
+    padding: 3rem 0;
+    font-size: 2rem;
+    border-radius: 1rem;
+}
+
 /* media queries */
 
 @media (max-width: 410px) {
