@@ -123,6 +123,28 @@ When scrolling down the page the footer comes up revealing the image behind it. 
 
 ![CSS For Surprise Image](assets/images/surprisecss.png)
 
+## Validators
+
+No errors were shown when running the website through both HTML and CSS validators.
+
+- HTML validator
+
+![HTML Validator](assets/images/htmlvalidator.png)
+
+- CSS validator
+
+![CSS Validator](assets/images/cssvalidator.png)
+
+- Lighthouse tested for mobile
+
+![Lighthouse On Mobile](assets/images/mobilelighthouse.png)
+
+- Lighthouse tested for desktop
+
+![Lighthouse On Desktop](assets/images/desktoplighthouse.png)
+
+
+
 
 https://css-tricks.com/fluid-width-video/
 
