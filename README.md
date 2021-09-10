@@ -173,14 +173,20 @@ This was fixed by using a solution I found in a tutorial which will be linked be
 
 The live link can be found here - https://saltta.github.io/pizzaplanet/
 
+## Credits
+
+### Content
+
+- Text font was sourced from Google Fonts - https://fonts.google.com/specimen/VT323
+- Social media icons were sourced from Font Awesome - https://fontawesome.com/
+- Image sizes were minimized via Tinypng - https://tinypng.com/
+- Video responsiveness was achieved following this tutorial - https://css-tricks.com/fluid-width-video/
+- Hidden image under footer was helped by this tutorial - https://css-tricks.com/the-slideout-footer/ 
 
 
-https://css-tricks.com/fluid-width-video/
 
-bug: when clicking links on the navbar, the navbar would land on top of the heading
 
-https://css-tricks.com/the-slideout-footer/
 
-https://medium.com/@bretcameron/parallax-images-sticky-footers-and-more-8-useful-css-tricks-eef12418f676
+
 
 https://getcssscan.com/css-box-shadow-examples
