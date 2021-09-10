@@ -183,6 +183,12 @@ The live link can be found here - https://saltta.github.io/pizzaplanet/
 - Video responsiveness was achieved following this tutorial - https://css-tricks.com/fluid-width-video/
 - Hidden image under footer was helped by this tutorial - https://css-tricks.com/the-slideout-footer/ 
 
+### Media
+
+- The logos were found in - https://www.logolynx.com/
+- The pizza images were found in - https://www.recipetineats.com
+
+
 
 
 
