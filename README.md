@@ -78,7 +78,7 @@ The bar is fixed to the top of the page at all times so the user can navigate wi
 
 ## Main Logo
 
-The big logo was styled in a way that it could conform to the viewport's size. On mobile or desktop, I wanted it to be large and draw attention, but it shouldn't be wider than the width of the viewport. It's *width* was set to *100%* with *height* set to *auto*.#
+The big logo was styled in a way that it could conform to the viewport's size. On mobile or desktop, I wanted it to be large and draw attention, but it shouldn't be wider than the width of the viewport. It's *width* was set to *100%* with *height* set to *auto*.
 
 ## Embedded Video
 
@@ -86,8 +86,8 @@ In the about section there is an embedded youtube video. It was very important t
 
 - The CSS for the video
 
-![CSS For Embedded Video](assets/images/videocss.png)
 ![Changes To Video On Smaller Screens](assets/images/videomediacall.png)
+![CSS For Embedded Video](assets/images/videocss.png)
 
 ## Images
 
