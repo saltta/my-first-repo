@@ -157,9 +157,11 @@ The solution was to add the property *scroll-padding-top* and give it a value th
 
 ### Youtube Video
 
-Making the Youtube embedded video responsive was a little tricky because depending on the screen size it would either deform the image, or if I gave it a fixed aspect ratio it would stretch the page and bleed off the side of the viewport. Then there was also the problem that the video image would change size but the box containing that image would keep its own size thus producing black bars around the video.  
+Making the Youtube embedded video responsive was a little tricky because depending on the screen size it would either deform the image, or if I gave it a fixed aspect ratio it would stretch the page and bleed off the side of the viewport. 
 
-This was solved by using a solution I found in a tutorial which will be linked below in the **Credits**.
+Then there was also the problem that the video image would change size but the box containing that image would keep its own size thus producing black bars around the video. When using *media* calls for small screens, I tried using *width* of *100%* and *height* set to *auto* and this would happen. 
+
+This was fixed by using a solution I found in a tutorial which will be linked below in the **Credits**. It involves putting Youtube's *iframe* into a *div* and *position* the video as *absolute* to that container to make it fluid.
 
 
 https://css-tricks.com/fluid-width-video/
