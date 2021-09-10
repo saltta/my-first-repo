@@ -78,7 +78,7 @@ The bar is fixed to the top of the page at all times so the user can navigate wi
 
 ## Main Logo
 
-The big logo was styled in a way that it could conform to the viewport's size. On mobile or desktop, I wanted it to be large and draw attention, but it shouldn't be wider than the width of the viewport. It's width was set to 100% with height set to *auto*.#
+The big logo was styled in a way that it could conform to the viewport's size. On mobile or desktop, I wanted it to be large and draw attention, but it shouldn't be wider than the width of the viewport. It's *width* was set to *100%* with *height* set to *auto*.#
 
 ## Embedded Video
 
@@ -87,7 +87,7 @@ In the about section there is an embedded youtube video. It was very important t
 ## Images
 
 I styled the images, aside from the small logo on the nav bar, to look a little more rounded along with the overall corners in the sections' titles.  
-I also wanted the pizzas in the menu to have a little zoom in effect when hovered to add a little interactive feel to them. This was achieved adding a transform property and setting its value to scale 20% larger than the original.  
+I also wanted the pizzas in the menu to have a little zoom in effect when hovered to add a little interactive feel to them. This was achieved adding a *transform* property to its *:hover* selector and setting its value to *scale* 20% larger than the original.  
 In the smaller screens the pizzas stack in a single column while on larger screens they are in 2 columns.
 
 - Pizzas as seen on a smaller mobile device
@@ -105,6 +105,14 @@ The form, when correctly filled out, is set to lead to the Confirmation page.
 The footer contains social links using Font Awesome for better visuals.  
 It is designed to sit off to the right of the page but centers when in small screens.
 
+- Footer seen on small screens
+
+![Small Screen Footer](assets/images/mobilefooter.png)
+
+## Hidden Image
+
+The idea was to make a little surprise for the user with the intention of it feeling like an easter-egg and to also increase the value of the user experience.  
+When scrolling down the page the footer comes up revealing the image behind it. This was done by placing the image in a separate div and giving it a *z-index* of *-1*, a *position* set to *sticky* and *bottom* set to *0*.
 
 
 https://css-tricks.com/fluid-width-video/
