@@ -36,6 +36,13 @@ The site displays the restaurant's logo upfront followed by a small description 
 
 ![Pizza Menu](assets/images/pizzamenusection.png)
 
+## Deals Sign Up
+
+- This section offers the user the opportunity to sign up to a mailing list in order to get discounts and a chance to win free pizzas
+- The form asks for their name, email, phone number and address
+
+![Deals Sign Up Form](assets/images/formsection.png)
+
 
 
 
