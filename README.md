@@ -72,7 +72,9 @@ I wanted the website to look similar whether on mobile or desktop devices. From 
 ## Navigation Bar
 
 I gave the nav bar a maximum width so in wider desktop screens the user wouldn't have to reach or look too far in order to navigate the page.  
-From the Confirmation page if the user clicks on any of the links in the nav bar, they'll be sent to the Main page and to the corresponding section.
+From the Confirmation page if the user clicks on any of the links in the nav bar, they'll be sent to the Main page and to the corresponding section.  
+It was important to separate the logo, which is also the home link, from the other section links. This was achieved by using flex-box on the nav bar.
+The bar is fixed to the top of the page at all times so the user can navigate with ease.
 
 ## Main Logo
 
@@ -80,7 +82,15 @@ The big logo was styled in a way that it could conform to the viewport's size. O
 
 ## Embedded Video
 
-In the about section there is an embedded youtube video. It was very important that the video wouldn't be too big or have any black bars.
+In the about section there is an embedded youtube video. It was very important that the video wouldn't be too big or have any black bars. It has a maximum width but shrinks down conforming to smaller screens.
+
+## Images
+
+I styled the images, aside from the small logo on the nav bar, to look a little more rounded along with the overall corners in the sections' titles.  
+I also wanted the pizzas in the menu to have a little zoom in effect when hovered to add a little interactive feel to them. This was achieved adding a transform property and setting its value to scale 20% larger than the original.  
+In the smaller screens the pizzas stack in a single column while on larger screens they are in 2 columns.
+
+
 
 
 https://css-tricks.com/fluid-width-video/
