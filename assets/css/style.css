@@ -287,7 +287,7 @@ footer span {
         height: 0;
     }
 
-    .videowrapper iframe {
+    .videowrapper .promo {
         position: absolute;
         top: 0;
         left: 0;
