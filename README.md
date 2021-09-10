@@ -4,6 +4,11 @@ Pizza Planet is a family friendly pizza restaurant with a space theme. Its websi
 
 The site displays the restaurant's logo upfront followed by a small description along with a promotional video. It also has a pizza menu and a Sign-up form to receive deals in the user's email inbox as well as a chance to win free pizzas.
 
+![Responsive Mockup](assets/images/isthisresponsive.png)
+
+
+
+
 https://css-tricks.com/fluid-width-video/
 
 bug: when clicking links on the navbar, the navbar would land on top of the heading
