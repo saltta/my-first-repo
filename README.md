@@ -15,7 +15,7 @@ The site displays the restaurant's logo upfront followed by a small description 
 
 ![Nav Bar](assets/images/navbar.png)
 
-## Landing Page
+## Landing Section
 
 - A large Pizza Planet logo and the restaurant's signature phrase are the first thing to catch the eye
 - It establishes the brand to the user and sets the color code of the website
@@ -74,6 +74,13 @@ I wanted the website to look similar whether on mobile or desktop devices. From 
 I gave the nav bar a maximum width so in wider desktop screens the user wouldn't have to reach or look too far in order to navigate the page.  
 From the Confirmation page if the user clicks on any of the links in the nav bar, they'll be sent to the Main page and to the corresponding section.
 
+## Main Logo
+
+The big logo was styled in a way that it could conform to the viewport's size. On mobile or desktop, I wanted it to be large and draw attention, but it shouldn't be wider than the width of the viewport. It's width was set to 100% with height set to *auto*.#
+
+## Embedded Video
+
+In the about section there is an embedded youtube video. It was very important that the video wouldn't be too big or have any black bars.
 
 
 https://css-tricks.com/fluid-width-video/
