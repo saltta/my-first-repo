@@ -90,6 +90,10 @@ I styled the images, aside from the small logo on the nav bar, to look a little 
 I also wanted the pizzas in the menu to have a little zoom in effect when hovered to add a little interactive feel to them. This was achieved adding a transform property and setting its value to scale 20% larger than the original.  
 In the smaller screens the pizzas stack in a single column while on larger screens they are in 2 columns.
 
+- Pizzas as seen on a smaller mobile device
+
+![Small Screen Pizzas](assets/images/mobilepizza.png)
+
 
 
 
