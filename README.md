@@ -163,6 +163,17 @@ Then there was also the problem that the video image would change size but the b
 
 This was fixed by using a solution I found in a tutorial which will be linked below in the **Credits**. It involves putting Youtube's *iframe* into a *div* and *position* the video as *absolute* to that container to make it fluid.
 
+## Deployment
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the GitHub repository, navigate to the Settings tab.
+  - In the left sidebar click on Pages.
+  - In the Source drop-down menu, select the Main branch.
+  - Click Save.
+
+The live link can be found here - https://saltta.github.io/pizzaplanet/
+
+
 
 https://css-tricks.com/fluid-width-video/
 
