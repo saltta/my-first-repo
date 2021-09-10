@@ -6,7 +6,9 @@ The site displays the restaurant's logo upfront followed by a small description 
 
 ![Responsive Mockup](assets/images/isthisresponsive.png)
 
+# Features
 
+## Navigation Bar
 
 
 https://css-tricks.com/fluid-width-video/
