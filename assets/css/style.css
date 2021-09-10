@@ -68,11 +68,8 @@ ul li a {
 }
 
 #herologo {
-    min-height: 50rem;
-    max-height: 70rem;
-    margin-top: -10rem;
-    margin-bottom: -15rem;
-    max-width: 100%;
+    width: 100%;
+    height: auto;
 }
 
 /* headings */
