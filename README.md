@@ -25,7 +25,7 @@ The site displays the restaurant's logo upfront followed by a small description 
 ## About Section
 
 - A brief paragraph with a sales pitch about the business's products
-- Includes a promotional video about the restaurant's delivery option
+- Includes a fun promotional video about the restaurant's delivery option
 
 ![About Section](assets/images/aboutsection.png)
 
@@ -57,6 +57,13 @@ The site displays the restaurant's logo upfront followed by a small description 
 - The links will open in a new tab for ease of navigation
 
 ![Footer](assets/images/footersection.png)
+
+## Hidden Feature
+
+- An image is hidden underneath the footer on the main page
+- This is supposed to give the user a simple extra experience adding to the fun aspect of the business
+
+![Surprise Hidden Image](assets/images/hiddenfeature.png)
 
 
 
