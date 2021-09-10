@@ -65,6 +65,15 @@ The site displays the restaurant's logo upfront followed by a small description 
 
 ![Surprise Hidden Image](assets/images/hiddenfeature.png)
 
+# Testing
+
+I wanted the website to look similar whether on mobile or desktop devices. From the beginning I planned the layout in a way that would make it easier for me to code responsive pages. That's why aside from the Confirmation page which comes after signing up, the Main website is made as a single page with links to sections of the page.
+
+## Navigation Bar
+
+I gave the nav bar a maximum width so in wider desktop screens the user wouldn't have to reach or look too far in order to navigate the page.  
+From the Confirmation page if the user clicks on any of the links in the nav bar, they'll be sent to the Main page and to the corresponding section.
+
 
 
 https://css-tricks.com/fluid-width-video/
