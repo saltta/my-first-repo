@@ -15,6 +15,12 @@ The site displays the restaurant's logo upfront followed by a small description 
 
 ![Nav Bar](assets/images/navbar.png)
 
+## Landing Page
+
+- A large Pizza Planet logo and the restaurant's signature phrase are the first thing to catch the eye
+- It establishes the brand to the user and sets the color code of the website
+
+![Landing Logo](assets/images/landinglogo.png)
 
 
 https://css-tricks.com/fluid-width-video/
