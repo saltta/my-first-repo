@@ -43,6 +43,12 @@ The site displays the restaurant's logo upfront followed by a small description 
 
 ![Deals Sign Up Form](assets/images/formsection.png)
 
+## Confirmation Page
+
+- This page is where the user is taken when they correctly fill out the Deals form and click the ***Sign up!*** button 
+- It assures the user that they are enrolled in the restaurant's mailing list
+
+![Confirmation Page](assets/images/confirmationpage.png)
 
 
 
