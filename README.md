@@ -29,6 +29,13 @@ The site displays the restaurant's logo upfront followed by a small description 
 
 ![About Section](assets/images/aboutsection.png)
 
+## Pizza Menu
+
+- Has a picture of each pizza available along with its themed name and toppings
+- The pictures slightly zoom in when the user's mouse hovers over them to provide a more interactive feel 
+
+![Pizza Menu](assets/images/pizzamenusection.png)
+
 
 
 
