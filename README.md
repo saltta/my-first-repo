@@ -187,12 +187,3 @@ The live link can be found here - https://saltta.github.io/pizzaplanet/
 
 - The logos were found in - https://www.logolynx.com/
 - The pizza images were found in - https://www.recipetineats.com
-
-
-
-
-
-
-
-
-https://getcssscan.com/css-box-shadow-examples
