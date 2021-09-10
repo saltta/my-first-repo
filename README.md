@@ -143,7 +143,9 @@ No errors were shown when running the website through both HTML and CSS validato
 
 ![Lighthouse On Desktop](assets/images/desktoplighthouse.png)
 
+The Lighthouse tests had good scores, however results were sometimes different just by running Lighthouse again without any changes to the page itself.  
 
+The site was opened of 6 different mobile devices using either Android or iOS, and 3 separate desktop browsers, the navigation worked well in all of them.
 
 
 https://css-tricks.com/fluid-width-video/
