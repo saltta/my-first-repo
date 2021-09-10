@@ -73,6 +73,7 @@ ul li a {
     margin-top: -10rem;
     margin-bottom: -15rem;
     max-width: 100%;
+    height: auto;
 }
 
 /* headings */
