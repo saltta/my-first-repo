@@ -84,6 +84,10 @@ The big logo was styled in a way that it could conform to the viewport's size. O
 
 In the about section there is an embedded youtube video. It was very important that the video wouldn't be too big or have any black bars. It has a maximum width and shrinks down conforming to smaller screens.
 
+- The CSS for the video
+
+![CSS For Embedded Video](assets/images/videocss.png)
+
 ## Images
 
 I styled the images, aside from the small logo on the nav bar, to look a little more rounded along with the overall corners in the sections' titles.  
