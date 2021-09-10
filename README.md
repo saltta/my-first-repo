@@ -22,6 +22,15 @@ The site displays the restaurant's logo upfront followed by a small description 
 
 ![Landing Logo](assets/images/landinglogo.png)
 
+## About Section
+
+- A brief paragraph with a sales pitch about the business's products
+- Includes a promotional video about the restaurant's delivery option
+
+![About Section](assets/images/aboutsection.png)
+
+
+
 
 https://css-tricks.com/fluid-width-video/
 
