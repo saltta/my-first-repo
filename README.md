@@ -82,7 +82,7 @@ The big logo was styled in a way that it could conform to the viewport's size. O
 
 ## Embedded Video
 
-In the about section there is an embedded youtube video. It was very important that the video wouldn't be too big or have any black bars. It has a maximum width but shrinks down conforming to smaller screens.
+In the about section there is an embedded youtube video. It was very important that the video wouldn't be too big or have any black bars. It has a maximum width and shrinks down conforming to smaller screens.
 
 ## Images
 
@@ -94,6 +94,16 @@ In the smaller screens the pizzas stack in a single column while on larger scree
 
 ![Small Screen Pizzas](assets/images/mobilepizza.png)
 
+## Form
+
+The form was designed to sit in a box which was centered in the page. On smaller screens it fills out the width and has no white space on the sides.  
+The submit button was styled to comply with the overall page font and color code.  
+The form, when correctly filled out, is set to lead to the Confirmation page.
+
+## Footer
+
+The footer contains social links using Font Awesome for better visuals.  
+It is designed to sit off to the right of the page but centers when in small screens.
 
 
 
