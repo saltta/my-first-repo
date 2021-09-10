@@ -152,7 +152,7 @@ iframe {
 /* enlarge pizza image when hover */
 
 .pizza img:hover {
-    transform: scale(1.5);
+    transform: scale(1.2);
 }
 
 /* Deals section */
