@@ -279,6 +279,8 @@ footer span {
     }
 }
 
+/* video responsiveness from css-tricks.com */
+
 @media (max-width: 560px) {
     .videowrapper {
         position: relative;

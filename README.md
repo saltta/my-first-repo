@@ -82,7 +82,7 @@ The big logo was styled in a way that it could conform to the viewport's size. O
 
 ## Embedded Video
 
-In the about section there is an embedded youtube video. It was very important that the video wouldn't be too big or have any black bars. It has a maximum width and shrinks down conforming to smaller screens.
+In the about section there is an embedded youtube video. It was very important that the video wouldn't be too big or have any black bars. It has a maximum width and shrinks down conforming to smaller screens. I used a tutorial for this.
 
 - The CSS for the video
 
