@@ -27,7 +27,7 @@ nav {
     display: flex;
     background-color: #cd0000;
     position: fixed;
-    height: 75px;
+    height: 7.5rem;
     top: 0;
     margin: 0;
     width: 100%;
@@ -43,7 +43,7 @@ nav {
 }
 
 #logo img {
-    height: 75px;
+    height: 7.5rem;
 }
 
 ul {
@@ -109,7 +109,7 @@ ul li a {
 /* youtube video */
 
 iframe {
-    box-shadow: rgba(149, 157, 165, 0.8) 0px 8px 24px;
+    box-shadow: rgba(149, 157, 165, 0.8) 0rem .8rem 2.4rem;
     margin-top: 3rem;
     border: none;
 }
@@ -249,7 +249,7 @@ footer span {
 }
 
 #conf-image {
-    box-shadow: rgba(149, 157, 165, 0.8) 0px 8px 24px;
+    box-shadow: rgba(149, 157, 165, 0.8) 0rem .8rem 2.4rem;
     margin: 1rem 15%;
     overflow: hidden;
     border-radius: 8rem;
