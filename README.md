@@ -87,6 +87,7 @@ In the about section there is an embedded youtube video. It was very important t
 - The CSS for the video
 
 ![CSS For Embedded Video](assets/images/videocss.png)
+![Changes To Video On Smaller Screens](assets/images/videomediacall.png)
 
 ## Images
 
@@ -117,6 +118,10 @@ It is designed to sit off to the right of the page but centers when in small scr
 
 The idea was to make a little surprise for the user with the intention of it feeling like an easter-egg and to also increase the value of the user experience.  
 When scrolling down the page the footer comes up revealing the image behind it. This was done by placing the image in a separate div and giving it a *z-index* of *-1*, a *position* set to *sticky* and *bottom* set to *0*.
+
+- The CSS for the surprise image
+
+![CSS For Surprise Image](assets/images/surprisecss.png)
 
 
 https://css-tricks.com/fluid-width-video/
