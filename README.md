@@ -50,6 +50,14 @@ The site displays the restaurant's logo upfront followed by a small description 
 
 ![Confirmation Page](assets/images/confirmationpage.png)
 
+## Footer
+
+- The footer contains the restaurant's social media links
+- This gives the user more options to stay informed about the business
+- The links will open in a new tab for ease of navigation
+
+![Footer](assets/images/footersection.png)
+
 
 
 https://css-tricks.com/fluid-width-video/
