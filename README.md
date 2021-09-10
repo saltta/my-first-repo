@@ -10,6 +10,12 @@ The site displays the restaurant's logo upfront followed by a small description 
 
 ## Navigation Bar
 
+- The navigation bar sits permanently at the top of the page
+- Has the logo which acts as a Home link on the left and section links to the right
+
+![Nav Bar](assets/images/navbar.png)
+
+
 
 https://css-tricks.com/fluid-width-video/
 
