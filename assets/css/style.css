@@ -105,10 +105,12 @@ ul li a {
 
 /* youtube video */
 
-iframe {
+.promo {
     box-shadow: rgba(149, 157, 165, 0.8) 0rem .8rem 2.4rem;
     margin-top: 3rem;
     border: none;
+    width: 560px;
+    height: 315px;
 }
 
 /* pizzas section */
