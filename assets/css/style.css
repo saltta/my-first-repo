@@ -273,7 +273,8 @@ footer span {
         margin: 0 .5rem;
     }
 
-    footer ul, footer span {
+    footer ul,
+    footer span {
         justify-content: center;
         margin-left: 0;
     }
