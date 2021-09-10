@@ -130,7 +130,7 @@ iframe {
 }
 
 .img-wrapper {
-    box-shadow: rgba(149, 157, 165, 0.8) 0px 8px 24px;
+    box-shadow: rgba(149, 157, 165, 0.8) 0rem .8rem 2.4rem;
     overflow: hidden;
     width: 20rem;
     height: 30rem;
@@ -166,7 +166,7 @@ iframe {
 /* form */
 
 form {
-    box-shadow: rgba(149, 157, 165, 0.8) 0px 8px 24px;
+    box-shadow: rgba(149, 157, 165, 0.8) 0rem .8rem 2.4rem;
     background: #cd0000;
     color: #fff;
     max-width: 50rem;
