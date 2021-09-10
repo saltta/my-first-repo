@@ -117,7 +117,7 @@ It is designed to sit off to the right of the page but centers when in small scr
 ## Hidden Image
 
 The idea was to make a little surprise for the user with the intention of it feeling like an easter-egg and to also increase the value of the user experience.  
-When scrolling down the page the footer comes up revealing the image behind it. This was done by placing the image in a separate div and giving it a *z-index* of *-1*, a *position* set to *sticky* and *bottom* set to *0*.
+When scrolling down the page the footer comes up revealing the image behind it. This was done by placing the image in a separate *div* and giving it a *z-index* of *-1*, a *position* set to *sticky* and *bottom* set to *0*.
 
 - The CSS for the surprise image
 
@@ -146,6 +146,20 @@ No errors were shown when running the website through both HTML and CSS validato
 The Lighthouse tests had good scores, however results were sometimes different just by running Lighthouse again without any changes to the page itself.  
 
 The site was opened of 6 different mobile devices using either Android or iOS, and 3 separate desktop browsers, the navigation worked well in all of them.
+
+## Bugs
+ 
+### Nav Bar
+
+Due to its fixed position, the nav bar ended up on top of the headings for each section when clicking on its links.  
+
+The solution was to add the property *scroll-padding-top* and give it a value that would push the page down enough for the heading to clear the nav bar. I chose *80px* because it felt like a visually pleasant position.
+
+### Youtube Video
+
+Making the Youtube embedded video responsive was a little tricky because depending on the screen size it would either deform the image, or if I gave it a fixed aspect ratio it would stretch the page and bleed off the side of the viewport. Then there was also the problem that the video image would change size but the box containing that image would keep its own size thus producing black bars around the video.  
+
+This was solved by using a solution I found in a tutorial which will be linked below in the **Credits**.
 
 
 https://css-tricks.com/fluid-width-video/
